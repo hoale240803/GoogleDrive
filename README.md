@@ -1,6 +1,24 @@
 # GoogleDrive
 
 
-install javafx following link:
+Step1: install javafx following link:
 
 https://o7planning.org/en/10619/install-efxclipse-into-eclipse
+
+Step2: create Credentials for Google Drive API
+https://o7planning.org/vi/11917/tao-credentials-cho-google-drive-api
+
+
+Step3:
+
+In the Firsttime  DriveQuickstart, một thư mục {user_home}/credentials will be created if not existed
+Windows	C:\Users\{user}\credentials
+Linux	/home/{user}/credentials
+
+
+after that coppy client_secret.json that created in step2 into 
+
+Windows	C:\Users\{user}\credentials
+Linux	/home/{user}/credentials
+
+Finally, running again DriveQuickstart more time
