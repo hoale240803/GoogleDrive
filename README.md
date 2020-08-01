@@ -2,12 +2,6 @@
 
 
 Step1: install javafx following link:
-
-https://o7planning.org/en/10619/install-efxclipse-into-eclipse
-dowload and unzip add file jar to libs
-https://gluonhq.com/products/javafx/
-
-if error follow youtube 
 https://www.youtube.com/watch?v=oVn6_2KuYbM&ab_channel=JoseGomez
 
 Step2: create Credentials for Google Drive API
